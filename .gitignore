@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow only these files
+!.gitignore
+!complete_flow.ipynb
+__pycache__/ 
+*.pyc 
+.env 
+venv/ 
